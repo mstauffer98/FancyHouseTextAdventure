@@ -12,7 +12,7 @@ adventure is like an interactive book. The games are second-person-based and the
 to perform different actions to interact with the scenes. Examples of commands would be like "look,"
 "go east," "examine door," or "take book." There's a total of ten points to find within this game by
 accomplishing various tasks. I've had a fun time making the game. And, I'm glad to have created a short
-tribute to an underappreciated, though highly influential genre of gaming. I hope you enjoy it!
+tribute to an underappreciated - though highly influential - genre of gaming. I hope you enjoy it!
 
 
 Running the Game:
@@ -35,10 +35,10 @@ Running the Game:
    command (The "16.0.2" will vary depending on your version of Java.).:
    set path=C:\Program Files\Java\jdk-16.0.2\bin
 
-6. Run the program with the command.:
+7. Run the program with the command.:
    java -jar FancyHouseTextAdventure.jar
 
-7. Have fun!
+8. Have fun!
 
 
 If you would like to see the source code of the game, please e-mail me at stauffermd@gmail.com.
