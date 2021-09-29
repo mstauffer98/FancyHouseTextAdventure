@@ -5,8 +5,8 @@ class assignment, to be had. Since the class, I have updated the game through va
 commands, more dialogue, etc. I believe I have caught all of the major bugs, but some still could
 remain. Be welcome to e-mail me if you find any errors.
 
-The game is called "Fancy House" and follows the style of various text adventure, also known as
-"interactive fiction," games such as "Colossal Cave Adventure," "Zork," and "Jigsaw." The best way to
+The game is called "Fancy House" and follows the style of various text adventure - also known as
+"interactive fiction" - games such as "Colossal Cave Adventure," "Zork," and "Jigsaw." The best way to
 describe these types of games would be to say if a video game is like an interactive movie, then a text
 adventure is like an interactive book. The games are second-person-based and the player inputs commands
 to perform different actions to interact with the scenes. Examples of commands would be like "look,"
@@ -20,16 +20,20 @@ Running the Game:
        Also, it works on Windows, but I have not tried it on Mac or Linux operating systems.]
 1. Download the project from GitHub.
 
-2. Download the latest version of Java (the .jar file was created in 11.0.2).
+2. Download the latest version of Java JDK (the lastest .jar file was created in 16.0.2).
+   [SEE: https://www.oracle.com/java/technologies/downloads/#java16]
 
-3. In Windows, open command line (cmd.exe in the start menu).
+3. In Windows, open command line (cmd.exe in the Start Menu).
 
 4. Open the directory of the location of the downloaded project using the "cd" command 
    (e.g., cd Downloads).
 
-5. You will need to set path to the Java directory bin in the terminal, using the following
-   command (The "11.0.2" will vary depending on your version of Java.).:
-   set path=C:\Program Files\Java\jdk-11.0.2\bin
+5. Navigate to the latest version of the game in the folder "FancyHouseTextAdventure"
+   (e.g., cd FancyHouseTextAdventure\JDK Version 16.0.2 (latest)).
+
+6. You will need to set "path" to the Java directory bin in the terminal, using the following
+   command (The "16.0.2" will vary depending on your version of Java.).:
+   set path=C:\Program Files\Java\jdk-16.0.2\bin
 
 6. Run the program with the command.:
    java -jar FancyHouseTextAdventure.jar
